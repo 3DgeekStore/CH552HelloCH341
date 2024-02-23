@@ -1,5 +1,4 @@
 # CH552HelloCH341
-A simple example to send hello word via USB serial port simulating CH341A
+Experience the power of communication with our CH552HelloCH341 example. This program sends a “Hello World” via the CH341A USB serial port, simulating a digital handshake.
 
-This uses Keil Microvision , and as a code size of 2112, Is include the Hex file if you want to try on your board, we must set the terminal to 57600 n81
-
+Created in Keil Microvision, it’s a compact program with a code size of just 2112. We’ve included the Hex file for you to try on your board. Just set your terminal to 57600 n81 and watch the magic unfold.
